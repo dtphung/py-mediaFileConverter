@@ -21,13 +21,12 @@ Before running the application, make sure you have the following:
 
 ## Installation
 
-Clone the repository or download the source code:
-    ```bash
-    $ git clone https://github.com/dtphung/py-mediaFileConverter.git
+Clone the repository or download the source code: <br>
+git clone https://github.com/dtphung/py-mediaFileConverter.git
 
 
 ## Usage
 
 To start the Media Converter application, run the following command:
-    ```bash
-    $ python media.py
+  ```bash
+$ python media.py
